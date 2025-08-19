@@ -6,7 +6,7 @@ I will add many more webseits soon and a Feature to commit a List of more Users 
 
 # Disclaimer
 This script is for educational purposes only. Only use with own Credentials
-![Screenshot](Screenshot)
+![Screenshot](Screenshot.png)
 
 # Install requirements
 Install Firefox
