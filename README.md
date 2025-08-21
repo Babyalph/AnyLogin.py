@@ -1,7 +1,7 @@
 # AnyLogin.py
 Bot that tries the given Username/Mail and Password on many Websites (like Instagram, Spotify....)
 
-This is the first Version so it only Features Instagram and Spotify.
+This is an early Version so it only Features Instagram, Spotify and LinkedIn.
 I will add many more webseits soon and a Feature to commit a List of more Users and Passwords at once.
 
 ![Screenshot](Screenshot.png)
