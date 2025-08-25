@@ -10,6 +10,7 @@ This script is for educational purposes only. Only use with own Credentials
 
 # Install requirements
 Install Firefox
+
 Install selenium
 ```bash
 pip install selenium webdriver-manager
