@@ -6,7 +6,9 @@ I will add many more webseits soon and a Feature to commit a List of more Users 
 
 ![Screenshot](Screenshot.png)
 # Disclaimer
-This script is for educational purposes only. Only use with own Credentials
+This script is for educational purposes only.
+
+Only use with own Credentials
 
 # Install requirements
 Install Firefox
