@@ -6,11 +6,12 @@ I will add many more webseits soon and a Feature to commit a List of more Users 
 
 # User List Version
 You can give the Bot a List with multible Users and Passwords now.
-the List has to be named List.txt and formated like this:
 
+the List has to be named List.txt and formated like this:
+```
 peter123@gmail.com 123456789
 sofia123@gmail.com 87654321
-
+```
 The pogramm takes around 50 seconds per user so I recommend running it in the Background.
 
 ![Screenshot](Screenshot.png)
